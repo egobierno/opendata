@@ -3,6 +3,8 @@ portal opendata
 
 Este es el portal prototipo para el catalogo de opendata de guatemala.
 
+Portal basado en Drupal y la distribucion DKAN.
+
 #Instalacion
 
 Para instalar este portal:
