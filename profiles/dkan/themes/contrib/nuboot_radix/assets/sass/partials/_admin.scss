@@ -1,0 +1,18 @@
+.admin-list {
+  dt, dd{
+    display:inline-block;
+    float:none;
+    vertical-align: top;
+  }
+}
+.views-edit-view {
+	input.btn,
+	input.btn:active,
+	input.btn:focus,
+	input.btn:hover, 
+	input[type="submit"]:hover {
+		background: inherit;
+		border: inherit;
+		color: inherit;
+	}
+}

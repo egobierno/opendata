@@ -1,0 +1,38 @@
+#section-page-title {
+  display: table;
+  width: 100%;
+}
+#section-page-title .container {
+  margin: 30px auto;
+}
+#section-page-title .container .page_title_has_sub h1.page_title {
+  margin: 0;
+}
+#section-page-title .container .page_title_no_sub h1.page_title {
+  margin: 15px 0;
+}
+#section-page-title .breadcrumb {
+  background-color: transparent;
+  padding: 0;
+  margin: 0;
+  color: #B9BEC3;
+}
+#section-page-title .breadcrumb a {
+  color: #B9BEC3;
+}
+#section-page-title .breadcrumb a:hover {
+  color: #FFF;
+}
+@media (max-width: 991px) {
+  .region-breadcrumb {
+    margin-top: 5px;
+  }
+}
+@media (min-width: 992px) {
+  .region-breadcrumb {
+    margin-top: 20px;
+  }
+  .breadcrumb {
+    float: right;
+  }
+}
